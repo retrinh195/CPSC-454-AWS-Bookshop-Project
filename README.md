@@ -3,3 +3,8 @@ This Github repository will be using a slightly modified version of the code fro
 
 Credit for the code: Ankit Jodhani
 Link to original repository that we copied: https://github.com/AnkitJodhani/2nd10WeeksofCloudOps
+
+For implementation of the infrastructure in AWS, we followed this article by Ankit Jodhani:
+Link to article: https://www.showwcase.com/article/35459/building-a-resilient-three-tier-architecture-on-aws-with-deploying-mern-stack-application
+
+*If the website for the article is down or inaccessible, use either Internet Archive or Wayback Machine to view the article.*
